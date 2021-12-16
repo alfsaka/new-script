@@ -1,2 +1,2 @@
-# new-script
-another script
+# scripts-text
+class scripts
