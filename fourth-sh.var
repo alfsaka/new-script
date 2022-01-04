@@ -1,0 +1,16 @@
+#!/bin/bash
+Username=(alfredgbede)
+Passwd="password12"
+Startofscript=`date`
+
+echo "My login name for this app is $Username"
+echo "My login password for this app is $Passwd"
+echo "I started the script at $Startofscript"
+
+sleep 20
+
+echo
+
+ENDOFSCRIPT=`date`
+
+echo "The Script ended at $ENDOFSCRIPT"
